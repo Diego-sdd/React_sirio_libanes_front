@@ -1,0 +1,87 @@
+
+
+  .curso_disponiveis h5{
+    margin-top: 60px;
+    text-align: center;
+    color:var(--font_two);
+    font-family:  Geon_Light;
+    font-size: 27px;
+    font-weight: 400;
+  }
+  .card img{ 
+      margin-top: 20px; 
+      height: 90px;
+      width: 100%;
+  }
+  .carousel .carousel-item{
+    width: 40% !important;
+    height:50vh !important;
+    padding: 10px;
+    text-align: center;
+    background-color: #F1F0F6;
+    border-radius: 20px;
+    box-shadow: -2px 0 2px 0px rgb(218, 217, 217),
+                  2px 0 2px 0px rgb(218, 217, 217) !important;
+  }
+  .carousel .carousel-item h5{ 
+    text-align: center;
+    color:var(--font_two);
+    font-family:  Geon_Light;
+  }
+  .carousel .carousel-item p{ 
+    text-align: center;
+  }
+  .carousel .carousel-item .btn_cursos{
+    position: absolute;
+    margin-top: 20px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color:rgb(255, 255, 255);
+    width: 20%;
+    height: 25px;
+    cursor: pointer;
+    border: 0px;
+    border-radius: 20px;
+  }
+  .carousel .carousel-item .btn_uti{ 
+    background-color: #FF6900;
+  }
+  .carousel .carousel-item .btn_uti:hover{ 
+    background-color: rgb(226, 97, 4);
+  }
+  .carousel .carousel-item .btn_compliance{
+    background-color: #3BE900;
+  }
+  .carousel .carousel-item .btn_compliance:hover{
+    background-color: rgb(53, 206, 2);
+  }
+  .carousel .carousel-item .btn_radio{
+    background-color: #FF0074;
+  }
+  #btn_carousel_avent{
+    width: 40px;
+    cursor: pointer;
+    margin-top:200px;
+  }
+
+  #ver_todos{
+    text-align: center;
+    font-family: Geon_Bold;
+    color:rgb(56, 54, 54);
+  }
+#ver_todos #icon_ver_todos{
+  position: absolute;
+  margin-left: 15px;
+  width: 25px;
+}
+
+
+
+
+
+
+
+
+  
+  

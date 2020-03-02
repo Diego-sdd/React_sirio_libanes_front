@@ -1,0 +1,137 @@
+@media only screen and (max-width: 321px) {
+    .text_header{
+        margin-top:0px ;
+    }
+    .text_header .btn_comece_agora{
+        padding:15px;
+        color:var(--font);
+        font-size: 15px; 
+        cursor: pointer;
+      }
+    .img_header{
+        display: none;
+    }
+    #background{
+        height: 180vh;
+    }
+    #background h6{
+        margin-top: -100px;
+    }
+    #background .img_maps{
+        margin-top: 40px;
+    }
+
+    .aprenda_no_seu_ritmo #text h5{
+        margin-top:0px;
+    }
+    .aprenda_no_seu_ritmo .img_aprenda_ritmo{
+        margin-top:50px;
+        width: 100%;
+    }
+    .aprenda_no_seu_ritmo .img_aprenda_ritmo_icon{
+        width: 10%;
+        position: absolute;
+        margin-top: -70px;
+        margin-left: -15%;
+        height: 80vh;
+   }
+   .aulas_com_experts .icon_objeto_two{
+    margin-left: -90px;
+    margin-top: -300px;
+    max-width: 100%;
+    height: 22vh;
+    transform: rotate(45deg);
+    }
+    .aulas_com_experts h5{
+    margin-top:-20px;
+    }
+    .aulas_com_experts .img_experts{
+        margin-top: -330px;
+        width: 80%;
+        float: right;
+        height: 30vh;
+    }
+    .certificado{
+        margin-top: -20px;
+    }
+    .certificado .icon_object_two{
+        display: none;
+    }
+    .certificado .icon_object_one{
+        width: 30%;
+        height: 12ch;
+        float: right;
+        margin-top: -10px;
+    }
+  }
+
+  @media (min-width: 322px) and (max-width: 979px) {
+    .text_header{
+        margin-top:40% ;
+        text-align: center;
+    }
+    .img_header{
+        display: none;
+    }
+    .text_header #linha_title{
+        display: none;
+    }
+
+    #background{
+        height: 130vh;
+    }
+    #background h6{
+        margin-top: -220px;
+    }
+    #background .img_maps{
+        margin-top: 60px;
+    }
+
+    .aprenda_no_seu_ritmo #text h5{
+        margin-top:0px;
+    }
+    .aprenda_no_seu_ritmo .img_aprenda_ritmo{
+        margin-top:50px;
+        width: 100%;
+    }
+    .aprenda_no_seu_ritmo .img_aprenda_ritmo_icon{
+         width: 10%;
+         position: absolute;
+         margin-top: -70px;
+         margin-left: -15%;
+         height: 80vh;
+    }
+    .aulas_com_experts{
+        margin-top: -30px;
+    }
+    .aulas_com_experts .icon_objeto_two{
+        margin-left: -80px;
+        margin-top: -60px;
+        max-width: 100%;
+        height: 21vh;
+        transform: rotate(45deg);
+    }
+    .aulas_com_experts h5{
+        margin-top:-500px;
+    }
+    .aulas_com_experts .img_experts{
+        margin-top: -320px;
+        width: 100%;
+        float: right;
+        height: 30vh;
+    }
+
+    .certificado{
+        margin-top: -20px;
+    }
+    .certificado .icon_object_two{
+        display: none;
+    }
+    .certificado .icon_object_one{
+        width: 30%;
+        height: 12ch;
+        float: right;
+    }
+
+
+  }
